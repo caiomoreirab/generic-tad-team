@@ -1,0 +1,6 @@
+(VS code)
+
+Compilar: 
+Digitar via terminal: gcc main.c time.c -o TAD-time
+
+Executar: ./TAD-time
